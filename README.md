@@ -5,7 +5,7 @@ Use Visual Studio Code to develop and deploy your client side apps to onprem Sha
 Clone or download the files in this repository.
 
 Rename sync.config.default.json to sync.config.json.
-Update the sync.config fiel with your credentials and SharePoint site URL.
+Update the sync.config file with your credentials and SharePoint site URL.
 
 From a command prompt, cd into the directory where you copied these files and type
 
