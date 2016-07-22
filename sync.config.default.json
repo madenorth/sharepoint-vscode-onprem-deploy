@@ -1,5 +1,28 @@
 {
     "username": "username",
     "password": "password",
-    "site": "https://my.sharepoint.site"
+    "site": "https://my.sharepoint.site",
+    "filemetadata": [
+        {
+            "name": "Item_MyDefault.html",
+            "metadata": {
+            "__metadata": {
+                "type": "SP.Data.OData__x005f_catalogs_x002f_masterpageItem"
+            },
+            "Title": "Item Minimal Template (via GULP)",
+            "MasterPageDescription": "This is a display template added via gulp.",
+            "ManagedPropertyMapping": "'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'",
+            "ContentTypeId": "0x0101002039C03B61C64EC4A04F5361F385106603",
+            "DisplayTemplateLevel": "Item",
+            "TargetControlType": {
+                "__metadata": {
+                "type": "Collection(Edm.String)"
+                },
+                "results": [
+                "SearchResults"
+                ]
+            }
+            }
+        }
+    ]
 }
