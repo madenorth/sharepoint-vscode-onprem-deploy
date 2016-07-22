@@ -1,5 +1,5 @@
 # sharepoint-vscode-onprem-deploy
-Use Visual Studio to develop and deploy your client side apps to onprem SharePoint deployment
+Use Visual Studio Code to develop and deploy your client side apps to onprem SharePoint deployment
 
 ## Instructions for use 
 Clone or download the files in this repository.
