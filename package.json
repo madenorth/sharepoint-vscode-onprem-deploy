@@ -1,0 +1,23 @@
+{
+  "name": "oozoo-sol-git",
+  "version": "1.0.0",
+  "description": "Deploy assets to SharePoint on premises from within Visual Studio Code using Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oozoo-solutions/sharepoint-vscode-onprem-deploy.git"
+  },
+  "author": "Matt Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oozoo-solutions/sharepoint-vscode-onprem-deploy/issues"
+  },
+  "homepage": "https://github.com/oozoo-solutions/sharepoint-vscode-onprem-deploy#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-spsync-creds": "^2.2.1"
+  }
+}
